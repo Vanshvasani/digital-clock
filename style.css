@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #111;
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+  }
+
+  #container {
+    color: rgb(255, 255, 255);
+    font-size: 4rem;
+    background: #000;
+    padding: 20px 40px;
+    border: 2px solid rgb(5, 118, 255);
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgb(0, 68, 255);
+  text-align: center;
+      color: rgb(255, 255, 255);
+      font-size: 3rem;
+      background: #000;
+      padding: 10px 20px;
+      border: 2px solid rgb(5, 118, 255);
+      border-radius: 10px;
+      box-shadow: 0 0 20px rgb(0, 68, 255);
+  }
